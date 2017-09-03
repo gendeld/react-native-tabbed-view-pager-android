@@ -5,7 +5,7 @@ package is.uncommon.rn.widgets;
  */
 
 import android.support.v4.view.PagerAdapter;
-import android.support.v4.view.ViewPager;
+import com.duolingo.open:rtl-viewpager;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
